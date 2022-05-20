@@ -1,5 +1,5 @@
-# profile
+# Personal Website
 
-A simple webpage to showcase my developer profile.
+A simple webpage detailing my background.
 
-[View website](https://poo17nam.github.io/profile)
+[View website](https://mclaughlinryan.github.io/rmclaughlin12)
